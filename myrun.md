@@ -1,0 +1,1 @@
+python train.py --epochs 10 --batch-size 32 --lr 1e-5 --num-adaptive-layers 6
